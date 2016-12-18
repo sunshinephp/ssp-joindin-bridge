@@ -1,0 +1,17 @@
+{
+    "name": "sunshinephp/ssp-joindin-bridge",
+    "type": "library",
+    "description": "Bridge script with functions to use readonly api from joindin referencing event specific data.",
+    "keywords": ["joindin", "api", "rest", "web service", "client"],
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Culp",
+            "email": "adamculp@uws.net"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "6.2.2"
+    }
+}
